@@ -19,7 +19,7 @@ flex-direction: column;
 /* Style the buttons that are used to open and close the faq-page body */
 .faq-page {
     /* background-color: #eee; */
-    color: #444;
+    color: #f6f6f6;
     cursor: pointer;
     padding: 30px 20px;
     width: 60%;
@@ -38,7 +38,7 @@ flex-direction: column;
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active,
 .faq-page:hover {
-    background-color: #b3b3b3;
+    background-color: #b2b2b2;
 }
 /* Style the faq-page panel. Note: hidden by default */
 .faq-body {
@@ -51,7 +51,7 @@ flex-direction: column;
     content: '\02795';
     /* Unicode character for "plus" sign (+) */
     font-size: 13px;
-    color: #777;
+    color: #f6f6f6;
     float: right;
     margin-left: 5px;
 }
