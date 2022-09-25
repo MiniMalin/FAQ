@@ -38,12 +38,12 @@ flex-direction: column;
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active,
 .faq-page:hover {
-    background-color: #b2b2b2;
+    background-color: #e2e2e2;
 }
 /* Style the faq-page panel. Note: hidden by default */
 .faq-body {
     padding: 0 18px;
-    background-color: #b2b2b2;
+    background-color: #e2e2e2;
     display: none;
     overflow: hidden;
 }
