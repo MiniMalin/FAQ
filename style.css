@@ -19,7 +19,7 @@ flex-direction: column;
 /* Style the buttons that are used to open and close the faq-page body */
 .faq-page {
     /* background-color: #eee; */
-    color: #f6f6f6;
+    color: #3b3b3b;
     cursor: pointer;
     padding: 30px 20px;
     width: 60%;
