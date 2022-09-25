@@ -36,7 +36,7 @@ flex-direction: column;
 
 .active,
 .faq-page:hover {
-    background-color: #c0c0c0;
+    background-color: #cc3636;
 }
 /* Style the faq-page panel. Note: hidden by default */
 .faq-body {
