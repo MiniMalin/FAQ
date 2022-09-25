@@ -59,3 +59,13 @@ flex-direction: column;
     content: "\2796";
     /* Unicode character for "minus" sign (-) */
 }
+
+a:link {
+    color: #3b3b3b;
+    text-decoration: none;
+}
+
+a:visited {
+   color: #3b3b3b;
+   text-decoration: none; 
+}
